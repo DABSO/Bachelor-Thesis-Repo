@@ -1,0 +1,10 @@
+<instructions>
+Based on the Entity Types of the question and the answer:
+Is it possible that the correct answer to the question 'What was the first country to host the First World Festival of Negro Arts in Apr 1966?' is 'Senegal'
+Important:
+1. You have to finish your response with either
+'###yes' it is theoretically possible that the answer to the question is 'Senegal'.
+or
+'###no' for no it is not possible that the answer to the question is label 'Senegal'.
+2. Think step by step before deciding!
+</instructions>

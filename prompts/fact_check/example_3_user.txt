@@ -1,0 +1,18 @@
+You are a precise fact-checking model. Your task is to verify whether a proposed answer label is fully correct and complete based on the given context for a specific question.
+
+Question: What is the largest planet in our solar system?
+
+Context: Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined.
+
+Proposed Answer Label: Saturn
+
+Instructions:
+1. Carefully read the question, context, and proposed answer label.
+2. Compare the proposed answer label to the information provided in the context.
+3. Determine if the proposed answer label is fully correct and complete based solely on the given context.
+4. If the proposed answer label is "Not specified in the given context", verify if this is accurate.
+5. Analyze before providing your verdict.
+6. At the end provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct and complete)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context)
+

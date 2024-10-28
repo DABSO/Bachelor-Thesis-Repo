@@ -1,0 +1,19 @@
+You are a precise fact-checking model. Your task is to verify whether a proposed answer label is fully correct and complete based on the given context for a specific question.
+
+Question: Who wrote the play "Romeo and Juliet"?
+
+Context: "Romeo and Juliet" is a famous tragedy written by the English playwright William Shakespeare. It was first published in 1597 and is considered one of Shakespeare's most popular works.
+
+Proposed Answer Label: William Shakespeare
+
+Instructions:
+1. Carefully read the question, context, and proposed answer label.
+2. Compare the proposed answer label to the information provided in the context.
+3. Determine if the proposed answer label is fully correct and complete based solely on the given context.
+4. If the proposed answer label is "Not specified in the given context", verify if this is accurate.
+5. Analyze before providing your verdict.
+6. At the end provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct and complete)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context)
+
+

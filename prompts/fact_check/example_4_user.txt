@@ -1,0 +1,20 @@
+You are a precise fact-checking model. Your task is to verify whether a proposed answer label is fully correct and complete based on the given context for a specific question.
+
+
+Question: What is the boiling point of water in Celsius?
+
+Context: Water is a crucial substance for life on Earth. It covers about 71% of the Earth's surface and is essential for various biological and chemical processes.
+
+Proposed Answer Label: Not specified in the given context
+
+
+
+Instructions:
+1. Carefully read the question, context, and proposed answer label.
+2. Compare the proposed answer label to the information provided in the context.
+3. Determine if the proposed answer label is fully correct and complete based solely on the given context.
+4. If the proposed answer label is "Not specified in the given context", verify if this is accurate.
+5. Analyze before providing your verdict.
+6. At the end provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct and complete)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context)

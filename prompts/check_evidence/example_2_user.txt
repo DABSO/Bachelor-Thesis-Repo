@@ -1,0 +1,26 @@
+<context>
+Line 7 ( Beijing Subway )
+Description.
+Line 7 has 30 stations , currently 29 stations are opened ( station is not opened yet ).
+Phase 1.
+Construction began in January 2010. It started test runs in September 2014 with full operation beginning on December 28 , 2014.
+Eastern extension ( Phase 2 ).
+The eastern extension runs through Chaoyang and Tongzhou Districts. The extension adds 9 new stations and of new line. The extension is fully underground. It was opened on December 28 , 2019 ( except station ).
+Timeline.
+- Jan. 19 , 2010 : Construction reportedly begun along Guangqu Road near the easternmost section of the line.
+- Dec. 28 , 2014 : Operations of Phase I of Line 7 begin , except for Shuangjing station and Fatou station.
+- Dec. 30 , 2018 : An infill station of Phase I , Fatou station was opened.
+- Dec. 28 , 2019 : Operations of Phase II of Line 7 begin , except for Universal Resort station. An infill station of Phase I , Shuangjing station was opened.
+</context>
+<instructions>
+Does the given context contain sufficient evidence supporting the claim that the correct answer to the question: 
+'What was the last stop on Line 7 of the Beijing subway from Dec 2014 to Dec 2019?'
+is 'Chaoyang and Tongzhou Districts' ? 
+
+Important:
+1. You have to finish your response with either 
+'###yes' for yes the context contains sufficient evidence supporting the claim that the correct answer is 'Chaoyang and Tongzhou Districts'.
+or 
+'###no' for no the context does not contain sufficient evidence supporting the claim that the correct answer is 'Chaoyang and Tongzhou Districts'.
+2. Think step by step before deciding!
+</instructions>

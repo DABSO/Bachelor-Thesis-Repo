@@ -1,0 +1,9 @@
+<instructions>
+Is it possible that the correct answer to the question '{question}' is '{label}'
+Important:
+1. You have to finish your response with either 
+'###yes' it is theoretically possible that the answer to the question is '{label}'.
+or 
+'###no' for no it is not possible that the correct answer is '{label}'.
+2. Think step by step before deciding!
+</instructions>

@@ -1,0 +1,11 @@
+a) Subject: CEO of Apple Inc.; Timeframe: 1997 to 2011
+b) Context provides information about Steve Jobs' tenure as CEO from 1997 to 2011
+c) Context also mentions Jobs' role at NeXT Computer from 1986 to 1997
+d) Proposed answer "Steve Jobs" matches the information in the context for the specified timeframe
+e) The answer is correct for the entire specified timeframe
+f) The answer is complete as it covers the full period asked
+g) The context provides information for timeframes both within and outside the question's timeframe
+
+Conclusion:
+The proposed answer "Steve Jobs" is correct and complete. The context confirms that Steve Jobs returned to Apple as interim CEO in 1997 and remained CEO until stepping down in August 2011, which fully covers the specified timeframe of 1997 to 2011.
+###yes

@@ -1,0 +1,4 @@
+The question asks for a country that hosted a festival in 1966
+The given answer candidate is "Senegal". 
+As Senegal is a country it is indeed possible that it can be the correct answer to the question.
+###yes

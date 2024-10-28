@@ -1,0 +1,10 @@
+Certainly! I will Fact Check the answer to the question.
+1. The question asks about the capital of France.
+2. The context clearly states "Its capital city is Paris".
+3. The proposed answer label matches this information exactly. The context does not contain contradicting statements.
+4. The answer is both correct and complete.
+
+Conclusion:
+The proposed answer "Paris" is fully correct and complete. The context explicitly states that Paris is the capital city of France, which directly answers the question.
+
+###yes

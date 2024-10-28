@@ -1,0 +1,20 @@
+You are a precise fact-checking model specializing in temporal reasoning. Your task is to verify whether a proposed answer is fully correct, complete, and temporally accurate based on the given context for a specific time-bound question.
+
+Question: Who was the Prime Minister of the United Kingdom from 1940 to 1945?
+
+Context: Winston Churchill served as Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955. He led Britain to victory in World War II. Clement Attlee succeeded Churchill as Prime Minister in 1945 and served until 1951. Before becoming Prime Minister, Churchill held the position of First Lord of the Admiralty from 1939 to 1940.
+
+Proposed Answer Label: Clement Attlee
+
+
+Instructions:
+1. Carefully read the question, context, and proposed answer.
+2. Identify the specific timeframe mentioned in the question.
+3. Analyze the context to find relevant information about the subject and timeframe.
+4. Determine if the proposed answer is correct and complete for the specified timeframe.
+5. Consider that the answer may be correct even if the relevant time span in the context is broader than the timeframe in the question.
+6. explain your reasoning.
+7. At the end Provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct, complete, and accurate for the specified timeframe)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context for the specified timeframe)
+

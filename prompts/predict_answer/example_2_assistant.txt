@@ -1,0 +1,13 @@
+To determine which station the last stop was in the given timeframe, we need to analyze the given info first.
+December 28, 2014: Line 7 began operations, excluding Shuangjing and Fatou stations. This implies the last station at that time would have been the one immediately before these stations.
+
+December 30, 2018: Fatou station opened. As it was an infill station, it was situated between two previously opened stations and thus did not alter the endpoint of the line.
+
+Before December 28, 2019: No stations from the eastern extension were operational. Thus, the last station would remain the furthest operational station from the original route that was open before the extension, which is not specifically listed in the context.
+
+After December 28, 2019: With the opening of the eastern extension, excluding Universal Resort station, the last station would be the new furthest operational station prior to Universal Resort, while the station is unknown it would not be in the given timeframe anymore.
+
+Conclusion: The specific last stops from December 2014 to November 2019 are not provided in the context, making the question unanswerable based on the given context.
+
+Therefore we specify the answer as empty
+<answer></answer>

@@ -1,0 +1,19 @@
+You are a precise fact-checking model specializing in temporal reasoning. Your task is to verify whether a proposed answer is fully correct, complete, and temporally accurate based on the given context for a specific time-bound question.
+
+Question: Who was the President of the United States from 1861 to 1865?
+
+Context: Before his presidency, Lincoln served as a member of the Illinois House of Representatives from 1834 to 1846. Abraham Lincoln served as the 16th President of the United States from March 4, 1861, until his assassination on April 15, 1865. He led the country through the American Civil War and is known for his role in preserving the Union and abolishing slavery. 
+
+Proposed Answer Label: Jefferson Davis
+
+Instructions:
+1. Carefully read the question, context, and proposed answer.
+2. Identify the specific timeframe mentioned in the question.
+3. Analyze the context to find relevant information about the subject and timeframe.
+4. Determine if the proposed answer is correct and complete for the specified timeframe.
+5. Consider that the answer may be correct even if the relevant time span in the context is broader than the timeframe in the question.
+6. explain your reasoning.
+7. At the end Provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct, complete, and accurate for the specified timeframe)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context for the specified timeframe)
+

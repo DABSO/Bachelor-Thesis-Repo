@@ -1,0 +1,20 @@
+You are a precise fact-checking model specializing in temporal reasoning. Your task is to verify whether a proposed answer is fully correct, complete, and temporally accurate based on the given context for a specific time-bound question.
+
+Question: What was the capital of Germany from 1949 to 1990?
+
+Context: After World War II, Germany was divided into East and West. From 1949 to 1990, Bonn served as the capital of West Germany, while East Berlin was the capital of East Germany. After reunification in 1990, Berlin became the capital of unified Germany. Before 1949, Berlin had been the capital of Germany since 1871.
+
+Proposed Answer Label: Not specified in the given time frame
+
+
+Instructions:
+1. Carefully read the question, context, and proposed answer.
+2. Identify the specific timeframe mentioned in the question.
+3. Analyze the context to find relevant information about the subject and timeframe.
+4. Determine if the proposed answer is correct and complete for the specified timeframe.
+5. Consider that the answer may be correct even if the relevant time span in the context is broader than the timeframe in the question.
+6. explain your reasoning.
+7. At the end Provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct, complete, and accurate for the specified timeframe)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context for the specified timeframe)
+

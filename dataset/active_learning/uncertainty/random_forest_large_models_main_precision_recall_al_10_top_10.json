@@ -1,0 +1,52 @@
+[
+  {
+    "id": "78_1",
+    "score": 0.5002,
+    "distance_from_0.5": 0.0002
+  },
+  {
+    "id": "48_3",
+    "score": 0.4998,
+    "distance_from_0.5": 0.0002
+  },
+  {
+    "id": "235_0",
+    "score": 0.4992,
+    "distance_from_0.5": 0.0008
+  },
+  {
+    "id": "285_2",
+    "score": 0.5015,
+    "distance_from_0.5": 0.0015
+  },
+  {
+    "id": "271_1",
+    "score": 0.5023,
+    "distance_from_0.5": 0.0023
+  },
+  {
+    "id": "201_0",
+    "score": 0.4974,
+    "distance_from_0.5": 0.0026
+  },
+  {
+    "id": "3_1",
+    "score": 0.4961,
+    "distance_from_0.5": 0.0039
+  },
+  {
+    "id": "180_2",
+    "score": 0.4954,
+    "distance_from_0.5": 0.0046
+  },
+  {
+    "id": "280_2",
+    "score": 0.5047,
+    "distance_from_0.5": 0.0047
+  },
+  {
+    "id": "209_1",
+    "score": 0.4951,
+    "distance_from_0.5": 0.0049
+  }
+]

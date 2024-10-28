@@ -1,0 +1,4 @@
+The question asks for a country that hosted a festival in 1966
+The given answer candidate is "Dakar, Senegal". 
+As Dakar is a city and not a country the given answer can not be the correct answer to the question.
+###no

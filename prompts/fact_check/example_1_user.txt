@@ -1,0 +1,20 @@
+You are a precise fact-checking model. Your task is to verify whether a proposed answer label is fully correct and complete based on the given context for a specific question.
+
+
+Question: What is the capital of France?
+
+Context: France is a country in Western Europe. Its capital city is Paris, which is also the largest city in the country. Paris is known for landmarks such as the Eiffel Tower and the Louvre Museum.
+
+Proposed Answer Label: Paris
+
+Instructions:
+1. Carefully read the question, context, and proposed answer label.
+2. Compare the proposed answer label to the information provided in the context.
+3. Determine if the proposed answer label is fully correct and complete based solely on the given context.
+4. If the proposed answer label is "Not specified in the given context", verify if this is accurate.
+5. Analyze before providing your verdict.
+6. At the end provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct and complete)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context)
+
+

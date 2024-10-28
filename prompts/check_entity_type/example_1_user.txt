@@ -1,0 +1,10 @@
+<instructions>
+Based on the Entity Types of the question and the answer:
+Is it possible that the correct answer to the question 'Which famous murderess was incarcerated in Oregon Women's Correctional Center, Valley State Prison for Women from 1987 to 1994?' is 'Clinton Correctional Facility for Women'
+Important:
+1. You have to finish your response with either
+'###yes' it is theoretically possible that the answer to the question is 'Clinton Correctional Facility for Women'
+or
+'###no' for no it is not possible that the answer to the question is label 'Clinton Correctional Facility for Women'.
+2. Think step by step before deciding!
+</instructions>

@@ -1,0 +1,13 @@
+.env
+__pycache__/
+logs/*
+
+dataset/original/*
+dataset/input/*
+dataset/re_annotation_docs/*
+
+PreExperiments/*
+
+expansion/*
+finetuning/*
+scheduler_scripts/*

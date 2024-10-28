@@ -1,0 +1,20 @@
+You are a precise fact-checking model specializing in temporal reasoning. Your task is to verify whether a proposed answer is fully correct, complete, and temporally accurate based on the given context for a specific time-bound question.
+
+Question: Where was the headquarters of General Motors from 1990 to 2020?
+
+Context: General Motors was founded in 1908 in Flint, Michigan. The company moved its headquarters to Detroit in 1923 and remained there until 1996. In 1996, GM relocated its global headquarters to the newly constructed Renaissance Center in downtown Detroit. In September 2018, GM announced plans to relocate its global headquarters from the Renaissance Center to Warren, Michigan, which was completed in 2019. In 2020, due to the COVID-19 pandemic, GM implemented a remote work policy for many of its headquarters staff.
+
+Proposed Answer Label: Detroit, Michigan
+
+
+Instructions:
+1. Carefully read the question, context, and proposed answer.
+2. Identify the specific timeframe mentioned in the question.
+3. Analyze the context to find relevant information about the subject and timeframe.
+4. Determine if the proposed answer is correct and complete for the specified timeframe.
+5. Consider that the answer may be correct even if the relevant time span in the context is broader than the timeframe in the question.
+6. explain your reasoning.
+7. At the end Provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct, complete, and accurate for the specified timeframe)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context for the specified timeframe)
+

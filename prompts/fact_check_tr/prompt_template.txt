@@ -1,0 +1,30 @@
+You are a precise fact-checking model specializing in temporal reasoning. Your task is to verify whether a proposed answer is fully correct, complete, and temporally accurate based on the given context for a specific time-bound question.
+
+Question: {question}
+
+Context: {context}
+
+Proposed Answer: {label}
+
+Instructions:
+1. Carefully read the question, context, and proposed answer.
+2. Identify the specific timeframe mentioned in the question.
+3. Analyze the context to find relevant information about the subject and timeframe.
+4. Determine if the proposed answer is correct and complete for the specified timeframe.
+5. Consider that the answer may be correct even if the relevant time span in the context is broader than the timeframe in the question.
+6. explain your reasoning following these steps:
+
+   Reasoning steps:
+   a) Identify the subject and timeframe from the question.
+   b) Locate relevant information in the context about the subject during the specified timeframe.
+   c) Compare the proposed answer to the information found in the context and look for contradicting information.
+   d) Verify if the answer is correct for the specified timeframe.
+   e) Check if the answer is complete or if any crucial information in the specified timeframe are missing from the answer.
+   f) If the context provides a broader timeframe, ensure the answer is still valid for the specific period asked in the question.
+   g) Conclude whether the proposed answer satisfies all criteria: correctness, completeness, and temporal accuracy.
+
+7. At the end Provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct, complete, and accurate for the specified timeframe)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context for the specified timeframe)
+
+

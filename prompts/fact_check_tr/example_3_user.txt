@@ -1,0 +1,20 @@
+You are a precise fact-checking model specializing in temporal reasoning. Your task is to verify whether a proposed answer is fully correct, complete, and temporally accurate based on the given context for a specific time-bound question.
+
+Question: Who was the CEO of Apple Inc. from 1997 to 2011?
+
+Context: Steve Jobs co-founded Apple Computer in 1976. After leaving in 1985, he returned to Apple in 1997 as interim CEO. He became permanent CEO in 2000 and led the company through a period of innovation and growth until stepping down in August 2011 due to health issues. Tim Cook succeeded Jobs as CEO. From 1986 to 1997, Jobs was involved with NeXT Computer, serving as its CEO.
+
+Proposed Answer Label: Steve Jobs
+
+
+Instructions:
+1. Carefully read the question, context, and proposed answer.
+2. Identify the specific timeframe mentioned in the question.
+3. Analyze the context to find relevant information about the subject and timeframe.
+4. Determine if the proposed answer is correct and complete for the specified timeframe.
+5. Consider that the answer may be correct even if the relevant time span in the context is broader than the timeframe in the question.
+6. explain your reasoning.
+7. At the end Provide your verdict using one of the following responses:
+   - ###yes (if the answer is fully correct, complete, and accurate for the specified timeframe)
+   - ###no (if the answer is incorrect, incomplete, or not supported by the context for the specified timeframe)
+

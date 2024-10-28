@@ -1,0 +1,11 @@
+1. Identifying the relevant info:
+The Resident Timeline shows the known owners and residents of the house.
+
+2. Identifying the relevant owner:
+From the timeline, we observe that Yolande Bebeze Fox owned the house from 1974 until 2016.
+
+3. Matching the time frame:
+The question specifies ownership from 1975 to February 2016.
+Yolande Bebeze Fox's ownership overlaps with the specified period (1974-2016).
+Thus, the owner of the Newton D. Baker House in Washington, D.C., from 1975 to February 2016, is:
+<answer>Yolande Bebeze Fox</answer>

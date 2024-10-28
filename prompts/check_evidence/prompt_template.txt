@@ -1,0 +1,15 @@
+<context>
+{context}
+</context>
+<instructions>
+Does the given context contain sufficient evidence supporting the claim that the correct answer to the question: 
+'{question}'
+is '{label}' ? 
+
+Important:
+1. You have to finish your response with either 
+'###yes' for yes the context contains sufficient evidence supporting the claim that the correct answer is '{label}'.
+or 
+'###no' for no the context does not contain sufficient evidence supporting the claim that the correct answer is '{label}'.
+2. Think step by step before deciding!
+</instructions>

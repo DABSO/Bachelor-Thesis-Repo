@@ -1,0 +1,11 @@
+given the context:
+<context>
+{context}
+<context>
+<instructions>
+answer the question: 
+'{question}'
+Important: 
+Append your final answer as semicolon seperated values inside of <answer>list ; of ; values </answer>
+Analyze step by step before providing a final answer!
+</instructions>

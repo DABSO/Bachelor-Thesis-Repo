@@ -1,0 +1,989 @@
+{"id":"0_0","label":"University of Arizona , Tucson","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"0_1","label":"University of California , Santa Barbara","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"0_2","label":"Perimeter Institute , Canada","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"1_0","label":"GMM Grammy","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"1_1","label":"GMM Grammy","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"1_2","label":"GMM Channel Holding Co. , Ltd.","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"2_0","label":"Hunter-Lehman College of the City University of New York","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"2_1","label":"Lehman College","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"3_0","label":"C&N Touristik","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"3_1","label":"Thomas Cook AG ; Thomas Cook Group","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"3_2","label":"Polish Aviation Group","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"4_0","label":"the International Amateur Athletic Federation ( IAAF )","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"4_1","label":"the International Association of Athletics Federations","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"4_2","label":"World Athletics","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"5_0","label":"Grantham Town","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"5_1","label":"Kings Lynn","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"5_2","label":"Tamworth","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"5_3","label":"Alfreton Town","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"5_4","label":"Tamworth","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"5_5","label":"York City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"5_6","label":"Gateshead","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"5_7","label":"Wrexham","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"6_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"6_1","label":"Writing-on-Stone","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"7_0","label":"University of Tehran at the Faculty of Fine Art","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"7_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"8_0","label":"Patrol Squadron 14-F","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_1","label":"Patrol Squadron 14","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_2","label":"Patrol Squadron 52","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_3","label":"Patrol Squadron 72","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_4","label":"Patrol Bombing Squadron 122","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_5","label":"Patrol Squadron 122","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_6","label":"Heavy Patrol Squadron ( Landplane ) 12","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"8_7","label":"Patrol Squadron 29","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"9_0","label":"King Ferdinand II of Aragon","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"9_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"9_2","label":"Ferdinand , Duke of Calabria","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"10_0","label":"Hans Gilardone","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"10_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"10_2","label":"Odo Loewe","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"11_0","label":"SeatGeek Stadium","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"11_1","label":"Village of Lisle-Benedictine University Sports Complex","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"11_2","label":"SeatGeek Stadium","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"12_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"12_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"13_0","label":"Woman Grandmaster","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"13_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"13_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"14_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"14_1","label":"National Academy of Sciences","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"14_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"15_0","label":"Defstar Records","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"15_1","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"15_2","label":"Sacra Music","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"16_0","label":"Wim Duisenberg","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"16_1","label":"Jean-Claude Trichet","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"16_2","label":"Mario Draghi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"16_3","label":"Christine Lagarde","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"17_0","label":"Oxford United","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"17_1","label":"Watford","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"17_2","label":"Reading","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"17_3","label":"Grimsby Town","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"17_4","label":"Darlington","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"17_5","label":"Luton Town","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"17_6","label":"Whitby Town","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"18_0","label":"he was labelled a rightist during the Anti-Rightist Movement","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"18_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"18_2","label":"Cultural Revolution","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"19_0","label":"Sehwa Girls High School","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"19_1","label":"Seoul National University","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"19_2","label":"Columbia Law School","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"20_0","label":"Hillsboro","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"20_1","label":"Virginia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"20_2","label":"Hillsboro","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"21_0","label":"China","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"21_1","label":"Taiwanese","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"21_2","label":"Taiwan","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"22_0","label":"Marko Lelov","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"22_1","label":"Argo Arbeiter","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"22_2","label":"J\u00fcrgen Henn","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"23_0","label":"China","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"23_1","label":"Hong Kong","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"23_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"24_0","label":"Paul Graham","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"24_1","label":"Sam Altman","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"24_2","label":"Geoff Ralston","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"25_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"25_1","label":"Sears","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"25_2","label":"Lowes","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"26_0","label":"Archives\u2013Navy Memorial\u2013Penn","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"26_1","label":"Archives\u2013Navy Memorial\u2013Penn Quarter","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"27_0","label":"State Rail Authority","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"27_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"27_2","label":"Sydney Trains","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"28_0","label":"Guntram Palm","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"28_1","label":"Friedrich-Wilhelm Kiel","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"28_2","label":"Christoph Palm","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"28_3","label":"Gabriele Zull","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"29_0","label":"\u00d6stersund","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"29_1","label":"Swansea City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"29_2","label":"Brighton & Hove Albion","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"30_0","label":"Harvard College","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"30_1","label":"Harvard Business School","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"31_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"31_1","label":"Benfica","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"31_2","label":"F\u00e1tima","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"31_3","label":"Pa\u00e7os de Ferreira","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"31_4","label":"Vit\u00f3ria de Guimar\u00e3es","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"31_5","label":"Benfica","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"32_0","label":"Edgley Aircraft Limited","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"32_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"32_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"32_3","label":"AeroElvira Limited","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"33_0","label":"Hanny Ditlefsen","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"33_1","label":"Mona Pedersen","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"34_0","label":"guano mining","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"34_1","label":"guano mining","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"34_2","label":"American Equatorial Islands Colonization Project","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"35_0","label":"Electorate of Hanover","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"35_1","label":"Kingdom of Hanover","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"35_2","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"36_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"36_1","label":"Walter Zenga","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"36_2","label":"Sini\u0161a Mihajlovi\u0107","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"36_3","label":"Marco Giampaolo","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"36_4","label":"Diego Simeone","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"37_0","label":"Loyola Catholic Secondary School","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"37_1","label":"South Kent School","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"37_2","label":"St. Marks School","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"37_3","label":"Michigan","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"38_0","label":"Dowager Empress Maria Feodorovna","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"38_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"38_2","label":"Virginia Museum of Fine Arts","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"39_0","label":"Real Madrid","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"39_1","label":"Cajasol Sevilla","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"39_2","label":"New York Knicks","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"40_0","label":"Kaunda","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"40_1","label":"Frederick Chiluba","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"40_2","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"40_3","label":"Michael Sata","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"40_4","label":"Guy Scott","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"40_5","label":"Edgar Lungu","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"41_0","label":"Christian Employers Association ( NCW )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"41_1","label":"Tilburg University ; Harvard University","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"41_2","label":"UN High Commissioner for Refugees","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"42_0","label":"National Historic Landmark","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"42_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"43_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"43_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"43_2","label":"Denver Zephyrs","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"43_3","label":"New Orleans Zephyrs","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"43_4","label":"New Orleans Baby Cakes","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"44_0","label":"Deputy Prime Minister and Minister of Labour and Transport ( 2003 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"44_1","label":"Deputy Prime Minister and Minister of Justice ( July 2003 \u2013 December 2007 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"44_2","label":"Minister of Social Affairs and Public Health ( December 2007 \u2013 October 2014 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"45_0","label":"Olympique Lyonnais","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"45_1","label":"Newcastle United","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"45_2","label":"Rangers ; Southampton","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"45_3","label":"Rangers ; Newcastle United","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"46_0","label":"Brooklyn","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"46_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"46_2","label":"New York","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"47_0","label":"a city landmark by the New York City Landmarks Preservation Commission ( LPC )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"47_1","label":"National Register of Historic Places ( NRHP )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"47_2","label":"National Historic Landmark","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"48_0","label":"Hibernians","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_1","label":"Marsaxlokk","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_2","label":"Eintracht Braunschweig","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_3","label":"Carl Zeiss Jena","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_4","label":"Austria K\u00e4rnten","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_5","label":"Ferencv\u00e1ros","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_6","label":"Panionios","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"48_7","label":"Omonia","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"49_0","label":"Social Democratic Federation","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"49_1","label":"Anti-Parliamentary Communist Federation","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"49_2","label":"United Socialist Movement","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"50_0","label":"University of Glasgow","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"50_1","label":"University of Edinburgh","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"50_2","label":"University of Aberdeen","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"51_0","label":"Johan Cruyffs","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"51_1","label":"Luigi Simoni","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"51_2","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"51_3","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"51_4","label":"Roberto Mancini","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"51_5","label":"Claudio Ranieri","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"51_6","label":"Walter Mazzarri","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"51_7","label":"Roberto Mancini","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"52_0","label":"Markus Anfang","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"52_1","label":"Achim Beierlorzer","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"52_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"52_3","label":"Markus Gisdol","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"53_0","label":"Russian","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"53_1","label":"Ukraine","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"54_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"54_1","label":"Emerson , Lake and Palmer","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"54_2","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"54_3","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"55_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"55_1","label":"Maccabi Haifa","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"55_2","label":"Maccabi Herzliya ; Bnei Yehuda Tel Aviv","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"55_3","label":"Ahi Nazareth ; Maccabi Haifa","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"55_4","label":"Mallorca","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"55_5","label":"Almer\u00eda","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"55_6","label":"Brighton & Hove Albion","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"56_0","label":"NationsBanks","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"56_1","label":"Cousins Properties","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"56_2","label":"Shorenstein Properties","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"57_0","label":"Toungoo","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"57_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"57_2","label":"Ava","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"57_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"57_4","label":"Ava","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"58_0","label":"Berga Naval Training Schools","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"58_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"58_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"59_0","label":"Annette des Iles","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"59_1","label":"Tuiloma Neroni Slade","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"59_2","label":"Jagdish Koonjul","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"59_3","label":"Enele Sopoaga","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"59_4","label":"Dessima Williams","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"59_5","label":"Marlene Moses","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"59_6","label":"Ahmed Sareer","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"60_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"60_1","label":"Serbian National Renewal Party","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"60_2","label":"Serbian Renewal Movement","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"61_0","label":"Bengt Nordenski\u00f6ld","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"61_1","label":"Paulus af Uhr","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"61_2","label":"Bj\u00f6rn Bjuggren","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"61_3","label":"Stig Nor\u00e9n","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"61_4","label":"G\u00f6sta Odqvist","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"61_5","label":"Bengt Rosenius","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"61_6","label":"Sven-Olof Olson","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"61_7","label":"Erik Nygren","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"62_0","label":"UNICEF","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"62_1","label":"National Democratic Institute","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"62_2","label":"Access Now","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"62_3","label":"Wikimedia Foundation","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"63_0","label":"Doorn Van Steyn","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"63_1","label":"Dorothy Squires","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"63_2","label":"Luisa Mattioli","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"63_3","label":"Kristina Kiki Tholstrup","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"64_0","label":"Danny Keough","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"64_1","label":"Michael Jackson","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"64_2","label":"Nicolas Cage","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"64_3","label":"Michael Lockwood","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"65_0","label":"US Correspondence Chess Grandmaster","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"65_1","label":"Professor of Physics","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"65_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"66_0","label":"Lourdios-Ich\u00e8re","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"66_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"66_2","label":"R\u00e9sistons","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"67_0","label":"TV2","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"67_1","label":"m1","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"67_2","label":"Cool TV","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"67_3","label":"Viasat 3","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"67_4","label":"RTL II","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"68_0","label":"United States Army","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"68_1","label":"University of Chicago","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"68_2","label":"Harvard","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"68_3","label":"Fairbank Center for Chinese Studies","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"69_0","label":"Bristol Central Library","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"69_1","label":"Zimbabwe House","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"69_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"69_3","label":"Sudbury Town","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"69_4","label":"Arnos Grove station","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"69_5","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"70_0","label":"Mortdale Maintenance Depot ; Hornsby Maintenance Depot ; Punchbowl Maintenance Depot","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"70_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"70_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"71_0","label":"Paco Herrera","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"71_1","label":"Quique Seti\u00e9n","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"71_2","label":"Paco J\u00e9mez","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"71_3","label":"Manolo Jim\u00e9nez","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"71_4","label":"Paco Herrera","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"71_5","label":"Pepe Mel","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"72_0","label":"Stan Dragoti","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"72_1","label":"Peter Beard","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"72_2","label":"Rod Stryker","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"73_0","label":"Russian","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"73_1","label":"USSR","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"73_2","label":"Russian","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"74_0","label":"one of the hosts to the annual Toronto International Film Festival","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"74_1","label":"Ontario Heritage Foundation","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"75_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"75_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"75_2","label":"United Kingdom","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"76_0","label":"CVG-82","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"76_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"77_0","label":"Iowa State Cyclones","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"77_1","label":"Chicago Bulls","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"77_2","label":"Nebraska Cornhuskers","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"78_0","label":"Mohamed Hussein Tantawi","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"78_1","label":"Abdul Fatah al-Sisi","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"78_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"79_0","label":"Filip Nikoli\u0107","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"79_1","label":"Laslo Bla\u0161kovi\u0107","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"80_0","label":"Army Air Forces School of Applied Tactics","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"80_1","label":"Army Air Forces Tactical Center","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"80_2","label":"Army Air Forces Center","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"80_3","label":"Army Air Forces Proving Ground Command","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"80_4","label":"Air Proving Ground Command","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"80_5","label":"Air Proving Ground","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"80_6","label":"Air Proving Ground Command","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"80_7","label":"Air Proving Ground Center","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"81_0","label":"Motherwell","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"81_1","label":"Hibernian","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"81_2","label":"Rangers","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"81_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"81_4","label":"Birmingham City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"81_5","label":"Aston Villa","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"81_6","label":"Nottingham Forest","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"81_7","label":"Genk","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"82_0","label":"New York City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"82_1","label":"San Francisco","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"82_2","label":"D\u00fcsseldorf , Germany","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"82_3","label":"San Francisco","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"83_0","label":"Brussels","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"83_1","label":"Madrid","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"83_2","label":"Cairo","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"83_3","label":"Berlin","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"83_4","label":"Brussels","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"83_5","label":"Athens","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"83_6","label":"Berlin","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"83_7","label":"Cettinj\u00e9","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"84_0","label":"the municipalities of Vammala , \u00c4ets\u00e4 and Mouhij\u00e4rvi","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"84_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"85_0","label":"Tennessee State University","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"85_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"85_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"86_0","label":"Cambridge","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"86_1","label":"London","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"87_0","label":"Royal Australian Navy","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"87_1","label":"Royal Netherlands Navy","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"87_2","label":"Indonesian Navy","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"88_0","label":"Amsterdam","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"88_1","label":"Berlin","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"88_2","label":"Milan ; Lombardia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"89_0","label":"Thierry de Montbrial","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"89_1","label":"Jean-Louis Gergorin","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"89_2","label":"Philippe Coste","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"89_3","label":"Jean-Marie Gu\u00e9henno","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"89_4","label":"Bruno Racine","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"89_5","label":"Gilles Andr\u00e9ani","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"89_6","label":"Michel Foucher","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"89_7","label":"Gilles Andr\u00e9ani","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"90_0","label":"Royal Society","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"90_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"90_2","label":"Royal Society of Edinburgh","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"90_3","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"91_0","label":"JYP","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"91_1","label":"Big Hit Entertainment","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"91_2","label":"JYP Entertainment","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_0","label":"Bert Even","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_1","label":"Egon Klepsch","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_2","label":"J\u00fcrgen Echternach","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_3","label":"Matthias Wissmann","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_4","label":"Christoph B\u00f6hr","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_5","label":"Hermann Gr\u00f6he","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"92_6","label":"Klaus Escher","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"92_7","label":"Hildegard M\u00fcller","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"93_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"93_1","label":"Padjadjaran University","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"93_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"94_0","label":"Russian empire","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"94_1","label":"Germany","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"94_2","label":"United States","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"95_0","label":"Plynlimon and Hafan Tramway","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"95_1","label":"Vale of Rheidol Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"95_2","label":"Vale of Rheidol Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"95_3","label":"Vale of Rheidol Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"96_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"96_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"97_0","label":"Pavel Richter","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"97_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"98_0","label":"Brentford","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"98_1","label":"Brighton & Hove Albion","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"98_2","label":"Reading","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"98_3","label":"Chelsea","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"98_4","label":"Aston Villa","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"98_5","label":"Fulham","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"98_6","label":"Stoke City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"98_7","label":"Brighton & Hove Albion","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"99_0","label":"Paul Rosenberg and Co","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"99_1","label":"Philip Lehman","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"99_2","label":"Duveen to the MFA","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"100_0","label":"Booth Tarkington","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"100_1","label":"Andrew Solomon ; Booth Tarkington","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"100_2","label":"Jennifer Egan ; Booth Tarkington","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"101_0","label":"Justice of the Supreme Court of South Australia","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"101_1","label":"Chancellor of the University of Adelaide","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"101_2","label":"Governor of South Australia","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"101_3","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"102_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"102_1","label":"Patrol Bombing Squadron 25 ( VPB-25 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"102_2","label":"VP-25","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"102_3","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"103_0","label":"Senegalese Democratic Bloc","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"103_1","label":"Party for Progress and Citizenship","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"104_0","label":"The Great Eastern Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"104_1","label":"London and North Eastern Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"104_2","label":"British Railways","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"105_0","label":"Tanglewood","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"105_1","label":"the London ( Royal Free Hospital ) School of Medicine for Women","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"105_2","label":"the Royal Free","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"106_0","label":"Progressive Conservative Party of Canada","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"106_1","label":"candidate of the Conservative Party of Canada ; 16th Premier of Alberta ; Minister of Industry","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"107_0","label":"Russian Empire","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"107_1","label":"Finland","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"107_2","label":"Karelian Autonomous Soviet Socialist Republic","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"107_3","label":"Finns","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"107_4","label":"Finland","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"107_5","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"108_0","label":"Russian","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"108_1","label":"Russian","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"109_0","label":"Italian Communist Youth Federation","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"109_1","label":"Italian Communist Party","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"109_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"109_3","label":"Democrats of the Left","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"109_4","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"110_0","label":"Rear admiral","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"110_1","label":"Vice admiral","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"110_2","label":"Admiral","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"111_0","label":"Chicago Blackhawks","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"111_1","label":"Chicago Blackhawks","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"111_2","label":"Chicago Bulls ; Chicago Blackhawks","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_0","label":"Boeing 747","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_2","label":"Boeing 747","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_3","label":"777-300ER","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_4","label":"Boeing 747 ; 777-300ER","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_5","label":"Boeing 787-10s","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_6","label":"Boeing 747 ; 777-300ER","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"112_7","label":"777-300ER ; Boeing 787-10s","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"113_0","label":"Sweden","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"113_1","label":"Norwegian operator Larvik Line","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"113_2","label":"Mediterranean Shipping Company","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"114_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"114_1","label":"Wembley Conference Centre","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"114_2","label":"Wembley Arena","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"114_3","label":"Alexandra Palace","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"115_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"115_1","label":"University of Miami","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"116_0","label":"Great Eastern Railway","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"116_1","label":"London & North Eastern Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"116_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"117_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"117_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"117_2","label":"Lisa Wede","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"118_0","label":"Diego de Guevara ; Carlos II","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"118_1","label":"Carlos II","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"118_2","label":"Mary of Hungary ; Carlos II","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"118_3","label":"Carlos II","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"118_4","label":"Colonel James Hay","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"118_5","label":"National Gallery","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"119_0","label":"faculty member ; Congressional Science Fellow","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"119_1","label":"faculty member ; Congressional Science Fellow ; headed the Nuclear and Scientific Division of the Office of Strategic Forces at the U.S. Department of State","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"119_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"120_0","label":"Norwegian State Railways","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"120_1","label":"Norwegian National Rail Administration","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"120_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"121_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"121_1","label":"editor-in-chief of the Conservative Review","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"121_2","label":"editor-in-chief of Conservative Review","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"122_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"122_1","label":"Marquette University","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"122_2","label":"University of Iowa","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"123_0","label":"Queensland Parliament as MP for Brisbane Central","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"123_1","label":"Queensland Parliament as MP for Brisbane Central ; Opposition Leader","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"123_2","label":"36th Premier of Queensland","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"123_3","label":"Queensland Parliament as MP for Brisbane Central ; Premier of Queensland","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"123_4","label":"Queensland Parliament as MP for Brisbane Central ; 36th Premier of Queensland","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"124_0","label":"Durand-Ruell","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"124_1","label":"Jean-Baptiste Faure","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"124_2","label":"Durand-Ruell","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"124_3","label":"the Count Isaac de Camondo","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"124_4","label":"the French government","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"125_0","label":"Mark Fitzgerald","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"125_1","label":"Angie Settell","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"125_2","label":"Kathy Bailey","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"126_0","label":"GP2 Series","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"126_1","label":"GP2 Series ; Japanese Super Formula","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"126_2","label":"Formula One","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"127_0","label":"Denver & Rio Grande Railroad","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"127_1","label":"US Army for use on the White Pass and Yukon Route in Alaska and the Yukon","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"127_2","label":"Durango & Silverton","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"128_0","label":"University of Arizona","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"128_1","label":"University of Chicago","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"129_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"129_1","label":"St Bartholomews Anglican Church and Cemetery","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"130_0","label":"Jean-Christophe Ammann","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"130_1","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"130_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"131_0","label":"Prime Minister of France","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"131_1","label":"Prime Minister","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"131_2","label":"Prime Minister","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"131_3","label":"president of France","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"132_0","label":"Sopwith Camels","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"132_1","label":"Hawker Furys","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"132_2","label":"Gloster Gladiators","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"132_3","label":"Hawker Hurricanes","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"132_4","label":"Spitfire","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"132_5","label":"de Havilland Vampire FB.9\u3001Venom ; 9\u3001Venom FB.1s","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"132_6","label":"Canberra B2s","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"133_0","label":"British","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"133_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"133_2","label":"Russian","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"134_0","label":"Air Marshal","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"134_1","label":"Lieutenant General","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"134_2","label":"General","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"135_0","label":"Patrol Squadron 22 ( VP-22","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"135_1","label":"Patrol Bombing Squadron 22 ( VPB-22 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"135_2","label":"Patrol Squadron 22 ( VP-22 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"135_3","label":"Medium Patrol Squadron ( Seaplane ) 2 ( VP-MS-2 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"135_4","label":"Patrol Squadron 42 ( VP-42 )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"136_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"136_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"137_0","label":"Great Britain","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"137_1","label":"New York City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"137_2","label":"United States","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"138_0","label":"American Association","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"138_1","label":"Pacific Coast League","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"138_2","label":"American Association","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"138_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"139_0","label":"National Register of Historic Places","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"139_1","label":"National Historic Landmark","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"139_2","label":"Chicago Landmark","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"140_0","label":"Koch Industries","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"140_1","label":"Koch Nitrogen Company ; Koch Fertilizer ; Koch Agronomic Services","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"140_2","label":"Koch Disruptive Technologies","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"141_0","label":"British Formula Three Championship","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"141_1","label":"GP2 Asia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"141_2","label":"GP2 Series","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"141_3","label":"Formula One","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"142_0","label":"Ottawas central railway station","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"142_1","label":"Government Conference Centre","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"142_2","label":"temporary seat of the Senate of Canada","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"143_0","label":"Josef Vacek","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"143_1","label":"Ivan Fuksa","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"143_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"143_3","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"143_4","label":"Jan Konvalinka","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"144_0","label":"GT Interactive","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"144_1","label":"Infogrames","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"144_2","label":"Tommo","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"145_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"145_1","label":"assistant district attorney","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"145_2","label":"member of the Governors Commission on Reform","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"146_0","label":"Giulio Anselmi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"146_1","label":"Pierluigi Magnaschi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"146_2","label":"Giampiero Gramaglia","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"146_3","label":"Luigi Contu","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"147_0","label":"Alexandra Fedorovna ; Kerensky Provisional Government","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"147_1","label":"Lillian Thomas Pratt","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"147_2","label":"Virginia Museum of Fine Arts","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"148_0","label":"Eugenia Rich","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"148_1","label":"Tuesday Weld","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"148_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"149_0","label":"7th U-boat Flotilla","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"149_1","label":"1st U-boat Flotilla","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"149_2","label":"1st U-boat Flotilla","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"149_3","label":"7th U-boat Flotilla","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"149_4","label":"NATO Military Committee","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_0","label":"Ernst af Klercker","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_1","label":"Carl August Ehrensv\u00e4rd","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_2","label":"Samuel \u00c5kerhielm","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_3","label":"Viking Tamm","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_4","label":"Curt G\u00f6ransson","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_5","label":"Tage Olihn","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_6","label":"Stig Nor\u00e9n","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"150_7","label":"Oscar Krokstedt","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"151_0","label":"Rome","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"151_1","label":"Rome","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"151_2","label":"Berlin","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"151_3","label":"London","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"151_4","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"152_0","label":"the H\u00f4tel de Crillon","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"152_1","label":"The H\u00f4tel Raphael","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"152_2","label":"The Peninsula Paris","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"153_0","label":"AKB48","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"153_1","label":"STU48","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"153_2","label":"Tentoumu Chu !","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"154_0","label":"the National Register of Historic Places","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"154_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"155_0","label":"Royal Society","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"155_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"155_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"155_3","label":"U.S. National Academy of Sciences","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"155_4","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"156_0","label":"Dan Greenburg","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"156_1","label":"Carl Bernstein","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"156_2","label":"Nicholas Pileggi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"157_0","label":"New South Wales State Heritage Register","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"157_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"158_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"158_1","label":"Videoton","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"158_2","label":"Tondela","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"158_3","label":"Libolo","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"159_0","label":"North East Joint Transport Committee","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"159_1","label":"North East Combined Authority","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"160_0","label":"Woman Grandmaster","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"160_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"160_2","label":"International Master","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"160_3","label":"Woman FIDE Master","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"161_0","label":"commander of the colonial forces in German East Africa","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"161_1","label":"Commander in Chief of German South West Africa","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"161_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"162_0","label":"Glasgow","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"162_1","label":"Sydney","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"162_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"163_0","label":"William Newton-Smith","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"163_1","label":"Monica Macovei","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"163_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"163_3","label":"Yehuda Elkana","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"163_4","label":"John Shattuck","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"164_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"164_1","label":"National Register of Historic Places","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"164_2","label":"National Historic Landmark","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"165_0","label":"American Philological Association ; Yales","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"165_1","label":"American Academy of Arts and Sciences","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"165_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"166_0","label":"Serbian Academy of Sciences and Arts","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"166_1","label":"European Academy of Sciences","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"166_2","label":"Fellow of the Institute of Mathematics and its Applications","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"166_3","label":"SIAM","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"167_0","label":"Deep Purple","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"167_1","label":"Zephyr","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"167_2","label":"James Gang","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"168_0","label":"Seattle","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"168_1","label":"San Francisco","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"168_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"168_3","label":"Seattle","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"169_0","label":"Old\u0159ich \u010cern\u00fd","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"169_1","label":"Petr Zeman","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"169_2","label":"Franti\u0161ek Bublan","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"169_3","label":"Karel Rand\u00e1k","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"169_4","label":"Ji\u0159\u00ed Lang","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"169_5","label":"Ivo Schwarz","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"169_6","label":"Ji\u0159\u00ed \u0160a\u0161ek","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"170_0","label":"Port of Spain","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"170_1","label":"London , England","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"170_2","label":"Alberta , Canada","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"171_0","label":"Gertrude Stein and Leo Stein","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"171_1","label":"Gertrude Stein","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"171_2","label":"Syndicate of the Museum of Modern Art ; David Rockefeller and Peggy Rockefeller","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"172_0","label":"Carrus Delta ; Ajokki","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"172_1","label":"Volvo Polska","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"172_2","label":"Carrus Delta ; Ajokki","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"172_3","label":"Volvo Polska","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"173_0","label":"Sonja Zietlow ; Dirk Bach ; Daniel Hartwich","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"173_1","label":"Sonja Zietlow ; Daniel Hartwich","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"173_2","label":"Sonja Zietlow ; Daniel Hartwich","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"174_0","label":"Great Britain","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"174_1","label":"Utrecht","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"174_2","label":"Great Britain","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"175_0","label":"Artie Shaw","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"175_1","label":"Joseph Stephen Steve Crane","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"175_2","label":"Lex Barker","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"175_3","label":"Ronald Pellar","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"176_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"176_1","label":"solicitor","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"176_2","label":"United States House of Representatives","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"176_3","label":"United States Senator","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"176_4","label":"Governor of North Carolina","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"177_0","label":"Liberal Movement","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"177_1","label":"Liberal Party","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"178_0","label":"National Historic Site","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"178_1","label":"World Heritage Site","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"178_2","label":"UNESCO World Heritage list","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"179_0","label":"Novgorod Republic","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"179_1","label":"Pskov Republic","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"179_2","label":"Russian Empire","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"179_3","label":"Russia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"180_0","label":"Prussia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"180_1","label":"Germany","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"180_2","label":"Germany","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"181_0","label":"World Heavyweight Champion","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"181_1","label":"WCW World Heavyweight Champion","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"181_2","label":"United States Heavyweight Championship","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"181_3","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"181_4","label":"United States Heavyweight Championship","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"181_5","label":"Universal Championship","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"182_0","label":"Hildur Arntzen","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"182_1","label":"Bartholine Eufemia Leganger","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"182_2","label":"Margrete Aamot \u00d8verland","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"183_0","label":"Russian","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"183_1","label":"Russian ; British","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"183_2","label":"Russian ; Bukovsky","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"183_3","label":"Bukovsky","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"184_0","label":"Higashi-Murayama Station ; Kokubunji","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"184_1","label":"Hon-Kawagoe Station ; Kokubunji","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"184_2","label":"Takadanobaba Station","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"184_3","label":"Seibu Shinjuku Station ; Hon-Kawagoe Station","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"185_0","label":"OC president","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"185_1","label":"elected to the Parliament of Catalonia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"185_2","label":"President of Catalonia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"186_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"186_1","label":"Colony of Hong Kong","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"186_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"187_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"187_1","label":"chief of staff to Kentucky senator Jim Bunning","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"187_2","label":"chief of staff to Iowa Republican senator Chuck Grassley","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"188_0","label":"Ernest Terah Hooley","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"188_1","label":"Duke and Duchess","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"188_2","label":"Hugh van Cutsem","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"188_3","label":"the family of James Everett","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"188_4","label":"family of James Everett","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"188_5","label":"Duke and Duchess of Cambridge","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"189_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"189_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"189_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"190_0","label":"The Pennsylvania","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"190_1","label":"Penn Central","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"190_2","label":"Conrail","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"191_0","label":"Japanese Taiwan","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"191_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"192_0","label":"Excelsior Publications","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"192_1","label":"Arkana Press","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"192_2","label":"Casus Belli Presse","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"192_3","label":"Black Book \u00c9ditions","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"193_0","label":"Frank Elstner","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"193_1","label":"Thomas Gottschalk","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"193_2","label":"Wolfgang Lippert","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"193_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"193_4","label":"Markus Lanz","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"194_0","label":"Liga IV","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"194_1","label":"Liga III","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"194_2","label":"Liga II","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"195_0","label":"Royal Society","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"195_1","label":"National Academy of Sciences","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"195_2","label":"Academy of Medical Sciences","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"196_0","label":"Ensign","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"196_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"196_2","label":"Lt. Cmdr","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"196_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"196_4","label":"command","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"196_5","label":"flag rank ; vice admiral ; Commander","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"196_6","label":"Commander in Chief","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"197_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"197_1","label":"Barry Norman ; Barry Took ; Simon Hoggart","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"197_2","label":"Sandi Toksvig ; Simon Hoggart","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"197_3","label":"Sandi Toksvig","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"198_0","label":"Escuela T\u00e9cnica Superior de Caminos","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"198_1","label":"Universidad Complutense de Madrid","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"198_2","label":"Universidad Complutense de Madrid","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"198_3","label":"Complutense de Madrid Universities","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"198_4","label":"CSIC","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"199_0","label":"Thoma Bravo","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"199_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"199_2","label":"Symantec","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"200_0","label":"Labour Spokesperson for Housing and Auckland Issues , and Associate Spokesperson for the Environment","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"200_1","label":"Minister of Housing and Urban Development and the Minister of Transport","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"201_0","label":"US Ouakam","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"201_1","label":"Brann","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"201_2","label":"Turkish S\u00fcper Lig club","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"201_3","label":"Lokomotiv Moscow","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"201_4","label":"Everton","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"201_5","label":"Everton ; Hull City","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"201_6","label":"Hull City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"201_7","label":"Cardiff City","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"202_0","label":"Geena Davis","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"202_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"202_2","label":"Emilie Livingston","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"203_0","label":"San Francisco","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"203_1","label":"Institute for General Semantics","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"203_2","label":"Brooklyn College , City University of New York","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"204_0","label":"Mariangelo Foggiato","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"204_1","label":"Donato Manfroi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"204_2","label":"Fabrizio Comencini","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"204_3","label":"Alessio Morosin","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"204_4","label":"Gian Pietro Piotto","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"205_0","label":"Jon Jafari","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"205_1","label":"Dan Avidan","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"206_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"206_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"206_2","label":"House parliamentarian","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"206_3","label":"parliamentarian of the Democratic National Convention","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"206_4","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"207_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"207_1","label":"David MacNaughton","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"207_2","label":"Kirsten Hillman","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"208_0","label":"West Texas\u2013New Mexico League","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"208_1","label":"Class A","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"208_2","label":"Sophomore League","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"208_3","label":"Texas League","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"208_4","label":"Pacific Coast League","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"209_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"209_1","label":"Novgorod Governorate","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"209_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"209_3","label":"Novgorod Oblast","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"210_0","label":"Antigua Guatemala","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"210_1","label":"Comayagua","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"210_2","label":"Gracias","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"210_3","label":"Antigua Guatemala","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"211_0","label":"Edmond Pottier","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"211_1","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"211_2","label":"Juliette de La Geni\u00e8re","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"212_0","label":"Oosterbeek","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"212_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"212_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"212_3","label":"Oosterbeek","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"212_4","label":"Amsterdam","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"213_0","label":"Great Northern Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"213_1","label":"Westinghouse Electric Corporation","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"213_2","label":"GNR","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"213_3","label":"new London and North Eastern Railway","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"213_4","label":"Southern Railway","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"213_5","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"213_6","label":"C\u00f3ras Iompair \u00c9ireann","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"214_0","label":"MP for the Dunedin electorate of St Kilda","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"214_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"214_2","label":"Minister of Finance","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"214_3","label":"Deputy Prime Minister","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"215_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"215_1","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"215_2","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"216_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"216_1","label":"Russian Academy of Sciences","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"216_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"216_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"216_4","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"217_0","label":"Deutsche Reichsbahn","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"217_1","label":"Deutsche Bundesbahn","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"217_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"218_0","label":"Copenhagen","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"218_1","label":"Munich","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"218_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"219_0","label":"Eva Schubach","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"219_1","label":"Anne Taschenmacher","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"219_2","label":"Hiltrud Hampel","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"219_3","label":"Doris K\u00f6pf","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"219_4","label":"Kim So-yeon","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"220_0","label":"Robert Biedro\u0144","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"220_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"220_2","label":"Agata Chaber","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"221_0","label":"Bosse Larsson","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"221_1","label":"Lasse Berghagen","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"221_2","label":"Anders Lundin","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"221_3","label":"M\u00e5ns Zelmerl\u00f6w","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"221_4","label":"Petra Marklund","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"222_0","label":"Saxon Peoples Party","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"222_1","label":"Social Democratic Workers Party of Germany","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"222_2","label":"Socialist Workers Party of Germany","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"223_0","label":"Port F.C ; Thailand national football team","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"223_1","label":"Pahang FA ; Thailand national football team","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"223_2","label":"Port F.C ; Thailand national football team","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"223_3","label":"Pahang FA ; Thailand national football team","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"223_4","label":"Thailand national football team","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"224_0","label":"Savannah Army Air Base , Georgia","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"224_1","label":"London","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"224_2","label":"Bushy Park","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"224_3","label":"United States Strategic Air Forces in Europe","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"224_4","label":"Wiesbaden , Germany","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"224_5","label":"Ramstein AB","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"225_0","label":"Minister of Health","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"225_1","label":"Deputy Prime Minister ; Minister of Health","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"225_2","label":"Leader of the Opposition","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"225_3","label":"Prime Minister of New Zealand","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"225_4","label":"Administrator of the United Nations Development Programme","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"226_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"226_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"226_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"227_0","label":"Marko Kristal","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"227_1","label":"Igor Prins","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"227_2","label":"Martin Reim","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"228_0","label":"Jock Willis Shipping Line","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"228_1","label":"Joaquim Antunes Ferreira","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"228_2","label":"Wilfred Dowman","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"228_3","label":"Thames Nautical Training College","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"228_4","label":"Cutty Sark Preservation Society","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"229_0","label":"Marshall Harvey Stone","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"229_1","label":"Rolf Nevanlinna","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"229_2","label":"Georges de Rham","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"229_3","label":"Henri Cartan","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"229_4","label":"K. S. Chandrasekharan","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"229_5","label":"Deane Montgomery","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"229_6","label":"Lennart Carleson","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"229_7","label":"J\u00fcrgen Moser","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"230_0","label":"Soviet","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"230_1","label":"Russian","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"230_2","label":"Russian","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"231_0","label":"David D. Clark","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"231_1","label":"Vint Cerfs","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"231_2","label":"Christian Huitema","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"231_3","label":"Brian Carpenter","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"231_4","label":"John Klensin","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"231_5","label":"Russ Housley","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"232_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"232_1","label":"FanPros","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"232_2","label":"Ulisses Spiele","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"233_0","label":"Karting","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"233_1","label":"Eurocup Formula Renault 2.0 ; ART Junior Team ; World Series in Renaults 3.5 category","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"233_2","label":"Formula One","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"234_0","label":"FC Winterthur","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"234_1","label":"FC Frauenfeld","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"234_2","label":"VfB Stuttgart","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"234_3","label":"Fenerbah\u00e7e","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"234_4","label":"Karlsruher SC","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"234_5","label":"Adanaspor","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"234_6","label":"Tirol Innsbruck","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"234_7","label":"L\u00f6ws German team","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"235_0","label":"member of the Legislative Assembly of Queensland for Enoggera","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"235_1","label":"member of the Legislative Assembly of Queensland for Enoggera","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"235_2","label":"Premier","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"235_3","label":"Minister for Defence","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"236_0","label":"Russian Empire","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"236_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"236_2","label":"United States","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"237_0","label":"Member of Parliament ( MP ) for Colchester","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"237_1","label":"Member of Parliament ( MP ) for Colchester","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"237_2","label":"Member of Parliament ( MP )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"238_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"238_1","label":"Helenio Herrera","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"238_2","label":"Arrigo Sacchi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"238_3","label":"Radomir Anti\u0107","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"238_4","label":"Javier Aguirre","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"238_5","label":"Abel Resino","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"238_6","label":"Quique","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"238_7","label":"Gregorio Manzano","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"239_0","label":"Popular Liberation Front","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"239_1","label":"Workers Front of Catalonia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"239_2","label":"Communist Organization of Spain","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"239_3","label":"Partit Socialista Unificat de Catalunya","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"240_0","label":"English Electric","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"240_1","label":"Robert Stephenson and Hawthorns factory","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"240_2","label":"English Electric","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"241_0","label":"International Grandmaster","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"241_1","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"241_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"242_0","label":"","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"242_1","label":"Swedish School of Economics and Business Administration","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"242_2","label":"Northwestern University","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"242_3","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"242_4","label":"M.I.T ; Sloan School of Management","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"243_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"243_1","label":"Green Bay Packers","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"243_2","label":"Philadelphia Eagles","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"243_3","label":"Cleveland Browns","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"243_4","label":"Detroit Lions","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"244_0","label":"Lanka Sama Samaja Party","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"244_1","label":"Nava Sama Samaja Party","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"244_2","label":"Lanka Sama Samaja Party","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"244_3","label":"Democratic Left Front","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"245_0","label":"Domenico Comino","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"245_1","label":"Oreste Rossi","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"245_2","label":"Mario Borghezio","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"245_3","label":"Gianna Gancia","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"245_4","label":"Stefano Allasia","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"246_0","label":"Saipan","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"246_1","label":"California","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"246_2","label":"Old Town , Florida","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"247_0","label":"Mughal","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"247_1","label":"British Raj","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"247_2","label":"India","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"248_0","label":"Generalfeldmarschall Erhard Milch","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"248_1","label":"Generaloberst Hans-J\u00fcrgen Stumpff","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"248_2","label":"General Josef Kammhuber","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"249_0","label":"Kuopio","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"249_1","label":"Jyv\u00e4skyl\u00e4","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"249_2","label":"Kuopio","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"250_0","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"250_1","label":"Emin B\u00fclent Serdaro\u011flu","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"250_2","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"250_3","label":"Emin B\u00fclent Serdaro\u011flu","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"250_4","label":"Ali Sami Yen","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"250_5","label":"","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"250_6","label":"Nihat Bekdik","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"251_0","label":"Michigan State","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"251_1","label":"LSU","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"251_2","label":"Miami Dolphins","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"251_3","label":"Alabama","Phi3_14B":null,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":null,"percentage_vote_main-Phi3_14B-G":0.5}
+{"id":"252_0","label":"Woman Grandmaster ( WGM )","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"252_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"252_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"252_3","label":"FIDE","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"253_0","label":"Order of New Zealand","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"253_1","label":"Honorary Doctor of Literature","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"253_2","label":"Commonwealth Writers Prize","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"254_0","label":"University of Algiers","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"254_1","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"254_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"255_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"255_1","label":"Thomas Randolph , 1st Earl of Moray","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"255_2","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"255_3","label":"Patrick , Earl of March","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"255_4","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"255_5","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"256_0","label":"","Phi3_14B":false,"majority_vote_main-Phi3_14B-G":false,"unanimous_vote_main-Phi3_14B-G":false,"percentage_vote_main-Phi3_14B-G":0.0}
+{"id":"256_1","label":"Royal Netherlands Navy","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
+{"id":"256_2","label":"Indonesian Navy","Phi3_14B":true,"majority_vote_main-Phi3_14B-G":true,"unanimous_vote_main-Phi3_14B-G":true,"percentage_vote_main-Phi3_14B-G":1.0}
