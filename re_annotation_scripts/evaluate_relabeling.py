@@ -19,9 +19,9 @@ redo = args.redo or False
 id_column = ConfigLoader.get_dataset_config(dataset)["id_column"]
 print("redo:", redo)
 
-original_dataset_path = ConfigLoader.build_input_dataset_path(dataset)
+original_dataset_path = ConfigLoader.get_input_dataset_path(dataset)
 
-relabeled_dataset_path = ConfigLoader.build_relabeled_dataset_path(dataset)
+relabeled_dataset_path = ConfigLoader.get_relabeled_dataset_path(dataset)
 
 original_df = pd.read_json(original_dataset_path, orient='records', lines=True,dtype=False)
 
@@ -80,7 +80,7 @@ def label_matches_relabeled(relabeled_row, original_row):
 matching_labels_count = 0
 
 evaluated_relabeled_df = pd.DataFrame(columns=[*relabeled_df.columns, "original_label", "matches_original", "manual_review"])
-existing_evaluated_relabeled_df = pd.read_json(ConfigLoader.build_relabeled_evaluation_dataset_path(dataset), orient='records', lines=True, dtype=False)
+existing_evaluated_relabeled_df = pd.read_json(ConfigLoader.get_relabeled_evaluation_dataset_path(dataset), orient='records', lines=True, dtype=False)
 
 
  
@@ -150,6 +150,6 @@ while i < len(evaluated_relabeled_df):
 
 # save to file 
 print(f"Percentage of matching labels: {matching_labels_count/len(relabeled_df)}")
-evaluated_relabeled_df.to_json(ConfigLoader.build_relabeled_evaluation_dataset_path((args.dataset)), orient='records', lines=True)
+evaluated_relabeled_df.to_json(ConfigLoader.get_relabeled_evaluation_dataset_path((args.dataset)), orient='records', lines=True)
 
 

@@ -19,7 +19,7 @@ load_dotenv()
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # 1. Load the DataFrame from the JSON file
-training_dataset_path = ConfigLoader.build_input_dataset_path("human_annotated_train")
+training_dataset_path = ConfigLoader.get_input_dataset_path("human_annotated_train")
 df = pd.read_json(training_dataset_path, orient='records', lines=True,dtype=False)  
 
 # Ensure required columns are present

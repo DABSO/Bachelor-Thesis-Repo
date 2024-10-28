@@ -39,9 +39,9 @@ class ConfigLoader:
         self.validate_environment()
         
     def load_inference_config(self):
-        self.input_dataset_path = self.build_input_dataset_path(self.dataset_filename)
-        output_dataset_path = ConfigLoader.build_model_output_dataset_path(self.dataset_filename, self.prompt_name)
-        self.model_path = self.build_model_path()    
+        self.input_dataset_path = self.get_input_dataset_path(self.dataset_filename)
+        output_dataset_path = ConfigLoader.get_model_output_dataset_path(self.dataset_filename, self.prompt_name)
+        self.model_path = self.get_model_path()    
 
         tokenizer = self.load_tokenizer(self.model_path)
         input_column = "model_input" # must not be present in the dataframe
@@ -87,7 +87,7 @@ class ConfigLoader:
     
     @staticmethod
     def load_available_datasets():
-        datasets = [filename.split(".")[0] for filename in os.listdir(ConfigLoader.build_input_dataset_path())]
+        datasets = [filename.split(".")[0] for filename in os.listdir(ConfigLoader.get_input_dataset_path())]
         
         return datasets
     
@@ -137,7 +137,7 @@ class ConfigLoader:
         if not self.dry_run:
             assert path.exists(self.model_path), f"Model does not exist: {self.model_path}"
 
-    def build_model_path(self):
+    def get_model_path(self):
         if self.local_files_only: 
             model_repo = self.model_config["model_repo"]
             return os.path.join(os.getenv("MODEL_DIR") ,model_repo)
@@ -146,14 +146,14 @@ class ConfigLoader:
             model_repo =  self.model_config["model_repo"].split("/")[0] + "/" + self.model_config["model_repo"].split("/")[1]
             return model_repo
         
-    def build_classifier_path(model_type : str, train_dataset_name : str, feature_names : list[str]):
+    def get_classifier_path(model_type : str, train_dataset_name : str, feature_names : list[str]):
 
         return os.getenv("CLASSIFIER_DIR") + "/"+ model_type + "_"+ train_dataset_name + "_" + "-".join(feature_names) + ".joblib"
     
     def get_classifier_name(model_type : str, train_dataset_name : str, feature_names : list[str]):
         return model_type + "_"+ train_dataset_name + "_" + "-".join(feature_names) 
     @staticmethod
-    def build_input_dataset_path(dataset_name : str = None):
+    def get_input_dataset_path(dataset_name : str = None):
         if dataset_name is None:
             joined = os.getenv("DATASET_DIR")+  "/input/"
         else:
@@ -161,50 +161,50 @@ class ConfigLoader:
         return  joined
     
     @staticmethod
-    def build_model_output_dataset_path( dataset_name : str, prompt_name : str = None):
+    def get_model_output_dataset_path( dataset_name : str, prompt_name : str = None):
         joined = os.getenv("DATASET_DIR")+  "/model_outputs/" + prompt_name + "_"+ dataset_name + ".json"
         return  joined
     
-    def build_parsed_model_output_dataset_path(dataset_name : str, prompt_name : str = None):
+    def get_parsed_model_output_dataset_path(dataset_name : str, prompt_name : str = None):
         joined = os.getenv("DATASET_DIR")+  "/parsed_model_outputs/" + prompt_name + "_"+ dataset_name + ".json"
         return  joined
     
     @staticmethod
-    def build_prediction_dataset_path( dataset_name : str, prompt_name : str = None):
+    def get_prediction_dataset_path( dataset_name : str, prompt_name : str = None):
         joined = os.getenv("DATASET_DIR")+  "/predictions/" + prompt_name + "_"+ dataset_name + ".json"
         return  joined
 
     @staticmethod
-    def build_optimization_dataset_path(dataset_name : str, optimization_column : str):
+    def get_optimization_dataset_path(dataset_name : str, optimization_column : str):
         return os.getenv("DATASET_DIR")+  "/optimization/" + dataset_name + "_"+optimization_column + ".json"
 
     @staticmethod
-    def build_evaluation_dataset_path( dataset_name : str, prompt_name : str = None):
+    def get_evaluation_dataset_path( dataset_name : str, prompt_name : str = None):
         joined = os.getenv("DATASET_DIR")+  "/evaluations/" + prompt_name + "_"+ dataset_name + ".json"
         return  joined
     @staticmethod
-    def build_aggregated_predictions_dataset_path(dataset_name):
+    def get_aggregated_predictions_dataset_path(dataset_name):
         joined = os.getenv("DATASET_DIR") +"/aggregated_predictions/" + dataset_name + ".json"
         print(joined)
         return joined    
     @staticmethod
-    def build_relabeled_dataset_path(dataset_name : str):
+    def get_relabeled_dataset_path(dataset_name : str):
         joined = os.getenv("DATASET_DIR") + "/relabeled/" + dataset_name + ".json"
         print(joined)
         return joined
 
     @staticmethod
-    def build_relabeled_evaluation_dataset_path(dataset_name : str):
+    def get_relabeled_evaluation_dataset_path(dataset_name : str):
         joined = os.getenv("DATASET_DIR") + "/evaluations/relabeled/" + dataset_name + ".json"
         return joined
     
     @staticmethod
-    def build_fine_tuning_dataset_path(dataset_name : str, prompt_name : str):
+    def get_fine_tuning_dataset_path(dataset_name : str, prompt_name : str):
         joined = os.getenv("DATASET_DIR") + "/fine-tuning/" + prompt_name + "_" + dataset_name + ".json"
         return joined
     
     @staticmethod
-    def build_prompt_path( prompt_file : str): 
+    def get_prompt_path( prompt_file : str): 
         joined = os.getenv("PROMPT_DIR") + "/" + prompt_file
         return joined
 
@@ -212,7 +212,7 @@ class ConfigLoader:
         prompt_templates = []
         for prompt_file in self.prompt_config["prompt_files"]:
             prompt_template = {}
-            with open(ConfigLoader.build_prompt_path(prompt_file["file"]), "r") as f:
+            with open(ConfigLoader.get_prompt_path(prompt_file["file"]), "r") as f:
                 prompt_template["content"] = f.read()
             prompt_template["role"] = prompt_file["role"]
             prompt_template["variables"] = prompt_file["variables"] if "variables" in prompt_file else None

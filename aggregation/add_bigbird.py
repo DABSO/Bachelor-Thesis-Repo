@@ -9,13 +9,13 @@ parser.add_argument("--dataset", type=str, required=True)
 dataset = parser.parse_args().dataset
 id_column = ConfigLoader.get_dataset_config(dataset)["id_column"]
 #dataset_path 
-path = ConfigLoader.build_model_output_dataset_path(dataset, prompt_name="baseline")
+path = ConfigLoader.get_model_output_dataset_path(dataset, prompt_name="baseline")
 
 model_df = pd.read_json(path, dtype=False, orient="records", lines=True)
 
 dataset_config = ConfigLoader.get_dataset_config(dataset)
 
-aggregated_path = ConfigLoader.build_aggregated_predictions_dataset_path(dataset)
+aggregated_path = ConfigLoader.get_aggregated_predictions_dataset_path(dataset)
 
 aggregated_df = pd.read_json(aggregated_path, dtype=False, lines=True, orient="records")
 

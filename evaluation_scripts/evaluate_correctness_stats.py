@@ -23,7 +23,7 @@ total_matches = 0
 total_rows = 0
 
 for dataset_file in dataset_files:
-    df = pd.read_json(ConfigLoader.build_relabeled_evaluation_dataset_path(dataset_file), orient='records', lines=True, dtype=False)
+    df = pd.read_json(ConfigLoader.get_relabeled_evaluation_dataset_path(dataset_file), orient='records', lines=True, dtype=False)
     
     matches_count = df['matches_original'].sum()
     total_count = len(df)

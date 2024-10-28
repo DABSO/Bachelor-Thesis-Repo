@@ -237,10 +237,10 @@ def main():
     for model in get_models_in_group(model_group):
         model_config = ConfigLoader.get_model_config(model)
         model_output_column = model_config["output_column"]
-        prediction_df = pd.read_json(ConfigLoader.build_model_output_dataset_path(dataset, prompt), lines=True, orient="records", dtype=False)
+        prediction_df = pd.read_json(ConfigLoader.get_model_output_dataset_path(dataset, prompt), lines=True, orient="records", dtype=False)
         prediction_df = parse_predictions(prediction_df, model_output_column, parsing_function)
         if use_relabeled:
-            labeled_dataset_path = ConfigLoader.build_relabeled_evaluation_dataset_path(dataset)
+            labeled_dataset_path = ConfigLoader.get_relabeled_evaluation_dataset_path(dataset)
             label_df = pd.read_json(labeled_dataset_path, lines=True, orient="records", dtype=False)
             # filter the prediction df to only include the rows that are in the label df
             prediction_df = prediction_df[prediction_df[id_column].isin(label_df[id_column])]

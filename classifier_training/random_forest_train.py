@@ -125,7 +125,7 @@ def main():
     accuracy = (y == y_pred).mean()
     print(f"\nOverall Accuracy: {accuracy:.2f}")
     #store the model
-    model_path = ConfigLoader.build_classifier_path("random_forest", "",[args.model_group, args.prompt_group, args.eval_method, args.id])
+    model_path = ConfigLoader.get_classifier_path("random_forest", "",[args.model_group, args.prompt_group, args.eval_method, args.id])
     dump(best_rf_classifier, model_path)
 
 if __name__ == "__main__":

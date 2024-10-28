@@ -45,7 +45,7 @@ def main():
         raise ValueError("X is None")
 
     # Load the trained model and scaler
-    model_path = ConfigLoader.build_classifier_path("mlp", "", [args.model_group, args.prompt_group, args.eval_method, args.id])
+    model_path = ConfigLoader.get_classifier_path("mlp", "", [args.model_group, args.prompt_group, args.eval_method, args.id])
     model_name = os.path.splitext(os.path.basename(model_path))[0]
     mlp_classifier, scaler = load(model_path)
     
@@ -56,7 +56,7 @@ def main():
     y_pred_proba = mlp_classifier.predict_proba(X_scaled)[:, 1]  # Probability of positive class
     
     # Create a DataFrame with the predictions
-    io_path = ConfigLoader.build_aggregated_predictions_dataset_path(dataset)
+    io_path = ConfigLoader.get_aggregated_predictions_dataset_path(dataset)
     predictions_df = pd.read_json(io_path, orient="records", lines=True, dtype=False)
     
     predictions_df[model_name] = y_pred_proba

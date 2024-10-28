@@ -18,7 +18,7 @@ def main():
     dataset = args.dataset
 
     # Load the aggregated predictions dataset
-    io_path = ConfigLoader.build_aggregated_predictions_dataset_path(dataset)
+    io_path = ConfigLoader.get_aggregated_predictions_dataset_path(dataset)
     predictions_df = load_data(io_path)
 
     # Generate random predictions based on the given distribution

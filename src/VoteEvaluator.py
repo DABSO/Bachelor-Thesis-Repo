@@ -20,7 +20,7 @@ class Evaluator:
         for prompt in prompts:
             
 
-            dataset_path = ConfigLoader.build_model_output_dataset_path(dataset, prompt)
+            dataset_path = ConfigLoader.get_model_output_dataset_path(dataset, prompt)
             df = Evaluator.load_data(dataset_path)
             if df is None:
                 continue
@@ -157,10 +157,10 @@ class Evaluator:
         
         input_df = pd.DataFrame()
         # add id column to the input_df
-        input_df[id_column] =  Evaluator.load_data(ConfigLoader.build_model_output_dataset_path(dataset, prompts[0]))[id_column]
+        input_df[id_column] =  Evaluator.load_data(ConfigLoader.get_model_output_dataset_path(dataset, prompts[0]))[id_column]
         for prompt in prompts:
             print(f"loading predictions for prompt {prompt}")
-            prediction_path = ConfigLoader.build_model_output_dataset_path(dataset, prompt)
+            prediction_path = ConfigLoader.get_model_output_dataset_path(dataset, prompt)
             df = Evaluator.load_data(prediction_path)
             
 
@@ -177,7 +177,7 @@ class Evaluator:
                     print(json.dumps(row.to_dict(), indent=4))
         label_df = None
         if with_labels:
-            label_df = Evaluator.load_data(ConfigLoader.build_relabeled_evaluation_dataset_path(dataset))
+            label_df = Evaluator.load_data(ConfigLoader.get_relabeled_evaluation_dataset_path(dataset))
 
         if ground_truth_column is not None and label_df is not None:
             # filter out the rows that are not in the relabeled_df

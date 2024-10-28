@@ -45,7 +45,7 @@ def main():
         raise ValueError("X is None")
 
     # Load the trained model
-    model_path = ConfigLoader.build_classifier_path("random_forest", "", [args.model_group, args.prompt_group, args.eval_method, args.id])
+    model_path = ConfigLoader.get_classifier_path("random_forest", "", [args.model_group, args.prompt_group, args.eval_method, args.id])
     model_name = os.path.splitext(os.path.basename(model_path))[0]
     rf_classifier = load(model_path)
     
@@ -53,11 +53,11 @@ def main():
     y_pred_proba = rf_classifier.predict_proba(X)[:, 1]  # Probability of positive class
     
     # Create a DataFrame with the predictions
-    io_path = ConfigLoader.build_aggregated_predictions_dataset_path(dataset)
+    io_path = ConfigLoader.get_aggregated_predictions_dataset_path(dataset)
     predictions_df = pd.read_json(io_path, orient="records", lines=True, dtype=False)
     
     # # Load the original dataset to get the id column
-    # input_dataset_path = ConfigLoader.build_prediction_dataset_path(dataset)
+    # input_dataset_path = ConfigLoader.get_prediction_dataset_path(dataset)
     # original_df = load_data(input_dataset_path)
     
 

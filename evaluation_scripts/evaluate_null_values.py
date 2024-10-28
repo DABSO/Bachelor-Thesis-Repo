@@ -54,7 +54,7 @@ if __name__ == "__main__":
     prompt_result = {}
 
     for prompt in prompts:
-        df = pd.read_json(ConfigLoader.build_prediction_dataset_path(dataset, prompt), orient='records', lines=True, dtype=False)
+        df = pd.read_json(ConfigLoader.get_prediction_dataset_path(dataset, prompt), orient='records', lines=True, dtype=False)
         null_counts, total_count, total_null_values = count_null_values_in_jsonl( df, output_columns)
         total_sum += total_count
         total_null_sum += total_null_values

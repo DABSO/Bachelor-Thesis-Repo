@@ -129,9 +129,9 @@ def main():
     logger.info(f"Loading model from {model_path}...")
     model = AutoModelForCausalLM.from_pretrained(model_path, local_files_only=True)
 
-    # Build dataset path
-    logger.info("Building dataset path...")
-    dataset_path = ConfigLoader.build_fine_tuning_dataset_path(args.dataset_name, "predict_answer")
+    # get dataset path
+    logger.info("getting dataset path...")
+    dataset_path = ConfigLoader.get_fine_tuning_dataset_path(args.dataset_name, "predict_answer")
     if not os.path.exists(dataset_path):
         logger.error(f"Dataset path {dataset_path} does not exist.")
         exit(1)

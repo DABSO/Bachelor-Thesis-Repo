@@ -20,9 +20,9 @@ parser.add_argument("--id", required=True, help="Identifier for the model")
 args = parser.parse_args()
 dataset_name = "human_annotated_train"
 dataset_config = ConfigLoader.get_dataset_config(dataset_name)
-train_dataset_path = ConfigLoader.build_aggregated_predictions_dataset_path(dataset_name)
+train_dataset_path = ConfigLoader.get_aggregated_predictions_dataset_path(dataset_name)
 classifier_name = ConfigLoader.get_classifier_name(args.classifier,"" ,[args.model_group, args.prompt_group, args.eval_method, args.id])
-relabeled_dataset_path = ConfigLoader.build_relabeled_evaluation_dataset_path(dataset_name)
+relabeled_dataset_path = ConfigLoader.get_relabeled_evaluation_dataset_path(dataset_name)
 relabeled_dataset = pd.read_json(relabeled_dataset_path, orient="records", lines=True, dtype=False)
 id_column = dataset_config["id_column"]
 relabeled_ids = relabeled_dataset[id_column].tolist()

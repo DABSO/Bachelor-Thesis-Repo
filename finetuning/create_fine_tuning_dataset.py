@@ -32,8 +32,8 @@ fine_tuning_dataset["input"] = fine_tuning_dataset["input"].apply(lambda x: pred
 
 
 if args.filter:
-    aggregated_predictions_dataset = pd.read_json(ConfigLoader.build_aggregated_predictions_dataset_path(dataset_name=args.dataset), orient="records", lines=True, dtype=False)
-    input_dataset = pd.read_json(ConfigLoader.build_input_dataset_path(dataset_name=args.dataset), orient="records", lines=True, dtype=False)
+    aggregated_predictions_dataset = pd.read_json(ConfigLoader.get_aggregated_predictions_dataset_path(dataset_name=args.dataset), orient="records", lines=True, dtype=False)
+    input_dataset = pd.read_json(ConfigLoader.get_input_dataset_path(dataset_name=args.dataset), orient="records", lines=True, dtype=False)
     # get the ids of the confident and correct predictions
     confident_correct_instance_ids = aggregated_predictions_dataset[aggregated_predictions_dataset[args.aggregation_column] > args.confidence_threshold][id_column].tolist()
     print("confident_correct_instance_ids: ", len(confident_correct_instance_ids))
@@ -44,7 +44,7 @@ if args.filter:
     confident_correct_instances = confident_correct_instances.set_index(id_column)
 
     # get the predictions of the models
-    predictions_dataset = pd.read_json(ConfigLoader.build_prediction_dataset_path(dataset_name=args.dataset, prompt_name="predict_answer"), orient="records", lines=True, dtype=False)
+    predictions_dataset = pd.read_json(ConfigLoader.get_prediction_dataset_path(dataset_name=args.dataset, prompt_name="predict_answer"), orient="records", lines=True, dtype=False)
     # get the rows of the predictions dataset that are in the confident_correct_predictions_dataset
     confident_correct_predictions_predictions_dataset = predictions_dataset[predictions_dataset[id_column].isin(confident_correct_instance_ids)]
     # get available models
@@ -71,7 +71,7 @@ if args.filter:
         print("remaining instances: ", len(id2_correct_model_predictions))
 
         # get the outputs of the models
-        model_output_dataset = pd.read_json(ConfigLoader.build_model_output_dataset_path(dataset_name=args.dataset, prompt_name="predict_answer"), orient="records", lines=True, dtype=False)
+        model_output_dataset = pd.read_json(ConfigLoader.get_model_output_dataset_path(dataset_name=args.dataset, prompt_name="predict_answer"), orient="records", lines=True, dtype=False)
         
         for i, row in model_output_dataset.iterrows():
             if row[id_column] in id2_correct_model_predictions:
@@ -102,4 +102,4 @@ else:
 
 # save the dataset
 fine_tuning_dataset_name = args.dataset + "_" + args.aggregation_column + "_" + str(args.confidence_threshold) 
-fine_tuning_dataset.to_json(ConfigLoader.build_fine_tuning_dataset_path(dataset_name=fine_tuning_dataset_name, prompt_name="predict_answer"), orient="records", lines=True)
+fine_tuning_dataset.to_json(ConfigLoader.get_fine_tuning_dataset_path(dataset_name=fine_tuning_dataset_name, prompt_name="predict_answer"), orient="records", lines=True)

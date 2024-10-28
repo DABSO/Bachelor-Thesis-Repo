@@ -145,7 +145,7 @@ def main():
     print(f"F1 Score for Negative Class: {f1_negative:.4f}")
 
     # Store the model and scaler
-    model_path = ConfigLoader.build_classifier_path("mlp", "", [args.model_group, args.prompt_group, args.eval_method, args.id])
+    model_path = ConfigLoader.get_classifier_path("mlp", "", [args.model_group, args.prompt_group, args.eval_method, args.id])
     dump((mlp_classifier, scaler), model_path)
 
 if __name__ == "__main__":

@@ -171,7 +171,7 @@ def main():
 
         for prompt in prompts:
             
-            dataset_path = ConfigLoader.build_model_output_dataset_path(dataset, prompt)
+            dataset_path = ConfigLoader.get_model_output_dataset_path(dataset, prompt)
             df = load_data(dataset_path)
             if df is None:
                 raise ValueError("df ", dataset_path, "does not exist")
@@ -192,11 +192,11 @@ def main():
 
             eval_dfs[prompt] = prediction_df
 
-            prediction_path = ConfigLoader.build_prediction_dataset_path(dataset, prompt)
+            prediction_path = ConfigLoader.get_prediction_dataset_path(dataset, prompt)
             save_predictions(prediction_df, prediction_path)
 
         merged_df = None
-        multiprompt_prediction_path = ConfigLoader.build_aggregated_predictions_dataset_path(dataset)
+        multiprompt_prediction_path = ConfigLoader.get_aggregated_predictions_dataset_path(dataset)
         try:
             merged_df = pd.read_json(multiprompt_prediction_path, lines=True, orient="records", dtype=False)
         except Exception:

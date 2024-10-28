@@ -52,7 +52,7 @@ def main():
     
     
     
-    label_df = pd.read_json(ConfigLoader.build_relabeled_evaluation_dataset_path(dataset), lines=True, orient="records", dtype=False, convert_axes=False)
+    label_df = pd.read_json(ConfigLoader.get_relabeled_evaluation_dataset_path(dataset), lines=True, orient="records", dtype=False, convert_axes=False)
 
     majority_vote_performances_df = pd.DataFrame()
     unanimous_vote_performances_df = pd.DataFrame()
@@ -131,11 +131,11 @@ def main():
             }, ignore_index=True)
             print("-----------------------------")
     base_name =  args.prompt_groups.replace(",", "-") + "_" + args.model_groups.replace(",", "-")
-    majority_vote_performances_df.to_json(ConfigLoader.build_optimization_dataset_path(dataset, base_name + "_majority_vote"), orient="records", lines=True)
-    unanimous_vote_performances_df.to_json(ConfigLoader.build_optimization_dataset_path(dataset,base_name + "_unanimous_vote"), orient="records", lines=True)
-    percentage_treshold_performces_df.to_json(ConfigLoader.build_optimization_dataset_path(dataset, base_name + "_percentage_treshold"), orient="records", lines=True)
-    percentage_treshold_0_5_performces_df.to_json(ConfigLoader.build_optimization_dataset_path(dataset, base_name + "_percentage_treshold_0_5"), orient="records", lines=True)
-    auc_pr_df.to_json(ConfigLoader.build_optimization_dataset_path(dataset, base_name + "_auc_pr"), orient="records", lines=True)
+    majority_vote_performances_df.to_json(ConfigLoader.get_optimization_dataset_path(dataset, base_name + "_majority_vote"), orient="records", lines=True)
+    unanimous_vote_performances_df.to_json(ConfigLoader.get_optimization_dataset_path(dataset,base_name + "_unanimous_vote"), orient="records", lines=True)
+    percentage_treshold_performces_df.to_json(ConfigLoader.get_optimization_dataset_path(dataset, base_name + "_percentage_treshold"), orient="records", lines=True)
+    percentage_treshold_0_5_performces_df.to_json(ConfigLoader.get_optimization_dataset_path(dataset, base_name + "_percentage_treshold_0_5"), orient="records", lines=True)
+    auc_pr_df.to_json(ConfigLoader.get_optimization_dataset_path(dataset, base_name + "_auc_pr"), orient="records", lines=True)
     print("-----------------------------\n"*3)
     # find the best ensemble by f1 score
     print("F1 score")

@@ -133,6 +133,6 @@ if __name__ == "__main__":
     dataset = args.dataset
     base_name =  args.prompt_groups.replace(",", "-") + "_" + args.model_groups.replace(",", "-")
 
-    data_path = ConfigLoader.build_optimization_dataset_path(dataset, base_name + "_    auc_pr")
+    data_path = ConfigLoader.get_optimization_dataset_path(dataset, base_name + "_    auc_pr")
     plot_path = "evaluations/auc_pr_scaling_"+dataset
     create_auc_pr_scatter_plot(data_path, plot_path)

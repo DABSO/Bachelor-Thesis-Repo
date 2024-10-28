@@ -120,10 +120,10 @@ def main():
 
     add_precision_recall = args.add_precision_recall or False
 
-    dataset_path = ConfigLoader.build_aggregated_predictions_dataset_path(args.dataset)
+    dataset_path = ConfigLoader.get_aggregated_predictions_dataset_path(args.dataset)
     df = pd.read_json(dataset_path, orient="records", lines=True, dtype=False)
 
-    label_dataset_path = ConfigLoader.build_relabeled_evaluation_dataset_path(args.dataset)
+    label_dataset_path = ConfigLoader.get_relabeled_evaluation_dataset_path(args.dataset)
     labels_df = pd.read_json(label_dataset_path, orient="records", lines=True, dtype=False)
 
     df = df[df[ConfigLoader.get_dataset_config(args.dataset)["id_column"]].isin(labels_df[ConfigLoader.get_dataset_config(args.dataset)["id_column"]])]

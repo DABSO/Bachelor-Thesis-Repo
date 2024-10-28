@@ -27,7 +27,7 @@ class ValidFilter(Filter):
         self.validation_function = config_loader.prompt_config["validation_function"]
         self.output_column = config_loader.model_config["output_column"]
         self.id_column = config_loader.dataset_config["id_column"]
-        self.output_df = pd.read_json(config_loader.build_model_output_dataset_path(config_loader.dataset_filename, config_loader.prompt_name), orient='records', lines=True, dtype=False, convert_axes=False)
+        self.output_df = pd.read_json(config_loader.get_model_output_dataset_path(config_loader.dataset_filename, config_loader.prompt_name), orient='records', lines=True, dtype=False, convert_axes=False)
     
     def apply(self, df : pd.DataFrame, **kwargs)-> pd.DataFrame:
         invalid_rows = []

@@ -8,8 +8,8 @@ load_dotenv()
 ANNOTATOR_1 =  "nedaniel"
 ANNOTATOR_2 = "annemarie.friedrich-jakob.prange" 
 dataset_name = "human_annotated_test"
-ann1_dataset = pd.read_json(ConfigLoader.build_relabeled_dataset_path(dataset_name + ( "_" + ANNOTATOR_1 if ANNOTATOR_1 else "")), orient="records", dtype=False)
-ann2_dataset = pd.read_json(ConfigLoader.build_relabeled_dataset_path(dataset_name + ( "_" + ANNOTATOR_2 if ANNOTATOR_2 else "")), orient="records", dtype=False)
+ann1_dataset = pd.read_json(ConfigLoader.get_relabeled_dataset_path(dataset_name + ( "_" + ANNOTATOR_1 if ANNOTATOR_1 else "")), orient="records", dtype=False)
+ann2_dataset = pd.read_json(ConfigLoader.get_relabeled_dataset_path(dataset_name + ( "_" + ANNOTATOR_2 if ANNOTATOR_2 else "")), orient="records", dtype=False)
 id_column = ConfigLoader.get_dataset_config(dataset_name)["id_column"]
 # get only the rows that are in both datasets by id
 ann1_dataset = ann1_dataset[ann1_dataset[id_column].isin(ann2_dataset[id_column])]

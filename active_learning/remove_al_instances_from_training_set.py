@@ -9,7 +9,7 @@ AL_TYPE = "perplexity"
 def remove_al_instances_from_training_set(type : str, dataset : str, prompt_group : str, model_group : str, id : str, eval_method : str, id_column : str):
     # Load the dataset
     dataset_config = ConfigLoader.get_dataset_config(dataset)
-    relabeled_evaluation_dataset_path = ConfigLoader.build_relabeled_evaluation_dataset_path(dataset)
+    relabeled_evaluation_dataset_path = ConfigLoader.get_relabeled_evaluation_dataset_path(dataset)
     relabeled_df = pd.read_json(relabeled_evaluation_dataset_path, orient='records', lines=True, dtype=False)
 
     # load the active learning dataset
@@ -23,9 +23,9 @@ def remove_al_instances_from_training_set(type : str, dataset : str, prompt_grou
     # remove the instances from the training set
     filtered_relabeled_df = relabeled_df[~relabeled_df[id_column].isin(active_learning_ids)]
     # save the al instances to a seperate file
-    filtered_relabeled_df.to_json(ConfigLoader.build_relabeled_evaluation_dataset_path(dataset), lines=True, orient='records')
+    filtered_relabeled_df.to_json(ConfigLoader.get_relabeled_evaluation_dataset_path(dataset), lines=True, orient='records')
 
-    al_instances.to_json(ConfigLoader.build_relabeled_evaluation_dataset_path( type + "_" + dataset), lines=True, orient='records')
+    al_instances.to_json(ConfigLoader.get_relabeled_evaluation_dataset_path( type + "_" + dataset), lines=True, orient='records')
 
 
 if __name__ == "__main__":
