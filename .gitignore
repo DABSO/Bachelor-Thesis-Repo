@@ -9,5 +9,5 @@ dataset/re_annotation_docs/*
 PreExperiments/*
 
 expansion/*
-finetuning/*
+
 scheduler_scripts/*
